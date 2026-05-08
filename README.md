@@ -95,7 +95,7 @@ It is important to label all the assets found by the scan because it helps prote
 
 ---
 
-### Rogue device not recognized, what do you do? POAM
+### Rogue device not recognized, what do you do? P.O.A.M
 
  Any rogue devices not recognized could be harmful to the company's network. In the case that a rogue device is found and no ownership can be verified you can take the following steps:
 
