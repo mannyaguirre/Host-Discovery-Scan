@@ -103,6 +103,7 @@ It is important to label all the assets found by the scan because it helps prote
 2. **Investigate** - Analyze the rogue device to understand its purpose and security status using security tools.
 3. **Decide** - Follow your organization's security policies to either remove, secure or reingrate the device to the network.
 
+---
 
 ## Key Takeaways
 
