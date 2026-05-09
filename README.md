@@ -1,6 +1,7 @@
 # Host Discovery Scan: Cyber Range
 
-<img width="703" height="342" alt="TenableCyberRange" src="https://github.com/user-attachments/assets/40ae31ab-0d60-4601-95e8-df67b2a6ce39" />
+<img width="705" height="425" alt="TenableCyberRange" src="https://github.com/user-attachments/assets/7843a03d-b50b-4946-97a0-8da7e627c22b" />
+
 
 ## Overview
 
