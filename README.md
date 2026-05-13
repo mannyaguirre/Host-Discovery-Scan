@@ -8,7 +8,7 @@
 
 The purpose of this lab was complete a ***Host Discover Scan***. A Host Discovery Scan is used to identify which devices are active and reachable on a network, including both previously known assets and newly discovered unknown assets.
 
-This lab was performed for Log(N) Pacific's Cyber Range environment. I used a Host Discovery Scan template on Tenable Vulnerability Management, chose the designated IP range from Log(N) Pacific's Cyber Range in Microsoft Azure, reviewed the results of the scan, properly labeled the devices found in the network.
+This lab was performed for **Log(N) Pacific's Cyber Range** environment. I used a Host Discovery Scan template on Tenable Vulnerability Management, chose the designated IP range from Log(N) Pacific's Cyber Range in Microsoft Azure, reviewed the results of the scan, properly labeled the devices found in the network.
 
 ---
 
